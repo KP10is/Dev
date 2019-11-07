@@ -11,6 +11,11 @@
        url("../fonts/flaticon/font/Flaticon.woff") format("woff"),
        url("../fonts/flaticon/font/Flaticon.ttf") format("truetype"),
        url("../fonts/flaticon/font/Flaticon.svg#Flaticon") format("svg");
+       url("../fonts/flaticon/font/Flaticon1.eot");
+       url("../fonts/flaticon/font/Flaticon1.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon/font/Flaticon1.woff") format("woff"),
+       url("../fonts/flaticon/font/Flaticon1.ttf") format("truetype"),
+       url("../fonts/flaticon/font/Flaticon1.svg#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -19,6 +24,7 @@
   @font-face {
     font-family: "Flaticon";
     src: url("../fonts/flaticon/font/Flaticon.svg#Flaticon") format("svg");
+    src: url("../fonts/flaticon/font/Flaticon1.svg#Flaticon") format("svg");
   }
 }
 
@@ -44,3 +50,5 @@
 .flaticon-insurance:before { content: "\f105"; }
 .flaticon-money:before { content: "\f106"; }
 .flaticon-rating:before { content: "\f107"; }
+.flaticon-002-coding:before { content: "\f108"; }
+
