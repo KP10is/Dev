@@ -4,6 +4,21 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ .kp10is_1
+ {
+  font-style: bold;
+  color: #003366;
+  font-size: 1.2em;
+ }
+.logo
+{
+  margin-left: 3em;
+  margin-top: 1em;
+}
+.logo1
+{
+  margin-left: 2em;
+}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8226,7 +8241,7 @@ h1, h2, h3, h4, h5,
       font-size: 20px; }
 
 .ftco-navbar-light {
-  background: #003366 !important;
+  background: #ff6600 !important;
   z-index: 3;
   padding: 0; }
   @media (max-width: 991.98px) {
@@ -9048,7 +9063,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 14px;
-  background: #232323;
+  background: #003366;
   padding: 6em 0; }
   .ftco-footer .ftco-footer-widget {
     width: 100%;

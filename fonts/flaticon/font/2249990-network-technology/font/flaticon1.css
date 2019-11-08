@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("../Flaticon1.eot");
+  src: url("../Flaticon1.eot?#iefix") format("embedded-opentype"),
+       url("../Flaticon1.woff2") format("woff2"),
+       url("../Flaticon1.woff") format("woff"),
+       url("../Flaticon1.ttf") format("truetype"),
+       url("../Flaticon1.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../Flaticon1.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-database:before { content: "\f100"; }
+.flaticon-002-anti-virus:before { content: "\f101"; }
+.flaticon-003-api:before { content: "\f102"; }
+.flaticon-004-cloud-database:before { content: "\f103"; }
+.flaticon-005-cloud-network:before { content: "\f104"; }
+.flaticon-006-cloud-server:before { content: "\f105"; }
+.flaticon-007-coding:before { content: "\f106"; }
+.flaticon-008-networking:before { content: "\f107"; }
+.flaticon-009-configuration:before { content: "\f108"; }
+.flaticon-010-data-transfer:before { content: "\f109"; }
+.flaticon-011-database:before { content: "\f10a"; }
+.flaticon-012-computer:before { content: "\f10b"; }
+.flaticon-013-email:before { content: "\f10c"; }
+.flaticon-014-global-network:before { content: "\f10d"; }
+.flaticon-015-harddisk:before { content: "\f10e"; }
+.flaticon-016-hosting:before { content: "\f10f"; }
+.flaticon-017-loading:before { content: "\f110"; }
+.flaticon-018-login:before { content: "\f111"; }
+.flaticon-019-networking:before { content: "\f112"; }
+.flaticon-020-networking:before { content: "\f113"; }
+.flaticon-021-no-connection:before { content: "\f114"; }
+.flaticon-022-processor:before { content: "\f115"; }
+.flaticon-023-protection:before { content: "\f116"; }
+.flaticon-024-router:before { content: "\f117"; }
+.flaticon-025-satellite:before { content: "\f118"; }
+.flaticon-026-server:before { content: "\f119"; }
+.flaticon-027-setting:before { content: "\f11a"; }
+.flaticon-028-sharing:before { content: "\f11b"; }
+.flaticon-029-smartphone:before { content: "\f11c"; }
+.flaticon-030-synchronization:before { content: "\f11d"; }
