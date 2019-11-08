@@ -9919,3 +9919,15 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.content-home {
+  padding: 16px;
+}
+.sticky + .content-home {
+  padding-top: 60px;
+}
