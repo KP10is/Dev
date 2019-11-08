@@ -11,7 +11,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Chez nous à KP10 IS, Vous êtes </span>
             <h1 class="mb-4">Plus que des clients, Vous êtes des partenaires</h1>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
+            <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
           </div>
         </div>
         </div>
@@ -24,7 +24,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Bienvenue à KP10 IS</span>
             <h1 class="mb-4">Nous innovons pour vous satisfaire</h1>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
+            <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
           </div>
         </div>
         </div>
@@ -37,7 +37,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Chez nous à KP10 IS, nous avons</span>
             <h1 class="mb-4">Les meilleurs collaborateurs pour vous</h1>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
+            <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
           </div>
         </div>
         </div>
@@ -50,7 +50,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Bienvenue à KP10 IS</span>
             <h1 class="mb-4">L'innovation au coeur de notre philosophie</h1>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
+            <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p>
           </div>
         </div>
         </div>
@@ -262,7 +262,7 @@
             <h2 class="mb-3 mb-md-0">KP10 IS, Toujours Innover Pour Vous Servir</h2>
           </div>
           <div class="col-lg-3 col-md-4 ftco-animate">
-          	<p class="mb-0"><a href="#" class="btn btn-white py-3 px-4">Demander un devis</a></p>
+          	<p class="mb-0"><a href="devis.php" class="btn btn-white py-3 px-4">Demander un devis</a></p>
           </div>
         </div>	
     	</div>
@@ -617,9 +617,6 @@
         </div>
       </div>
     </section>
-
-		
     <?php include('include/footer.php'); ?>
-    
   </body>
 </html>
