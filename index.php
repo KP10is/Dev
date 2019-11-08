@@ -30,7 +30,7 @@
         </div>
       </div>
 	  
-	  <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+	  <div class="slider-item" style="background-image:url(images/bg_3.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
@@ -43,7 +43,7 @@
         </div>
       </div>
 	  
-	  <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+	  <div class="slider-item" style="background-image:url(images/bg_4.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
