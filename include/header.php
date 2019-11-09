@@ -79,9 +79,9 @@
           <ul class="navbar-nav mr-auto">
             <li class="nav-item"><a href="index.php" class="nav-link pl-0">Accueil</a></li>
             
-            <li class="nav-item"><a href="project.php" class="nav-link">Nos Packages</a></li>
-            <li class="nav-item"><a href="services.php" class="nav-link">Nos Formules</a></li>
-        <li class="nav-item"><a href="services.php" class="nav-link">Nos Services</a></li>
+            <li class="nav-item"><a href="project.php" class="nav-link">Nos Services</a></li>
+            <li class="nav-item"><a href="services.php" class="nav-link">Nos Packages</a></li>
+        <li class="nav-item"><a href="services.php" class="nav-link">Nos Formules</a></li>
             <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
             <li class="nav-item"><a href="contact.php" class="nav-link">Contactez-nous</a></li>
         <li class="nav-item"><a href="about.php" class="nav-link">A propos de Nous</a></li>
