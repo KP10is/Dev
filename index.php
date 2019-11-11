@@ -3,6 +3,7 @@
 
     <!-- END nav -->
     <?php include('include/header.php'); ?>
+    <body>
     <section class="home-slider owl-carousel">
       <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
       	<div class="overlay"></div>
@@ -89,7 +90,7 @@
 									</div>
 								</div>
 								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-006-cloud-server"></span></div>
 									<div class="text media-body">
 										<h3>Maintenance et Réseaux Informatique</h3>
 										<p>Nous deployons des réseaux informatiques, assurons la migration de vos postes...</p>
@@ -619,4 +620,8 @@
     </section>
     <?php include('include/footer.php'); ?>
   </body>
+  <!--Start of Tawk.to Script-->
+
+<!--End of Tawk.to Script-->
 </html>
+<script src="include/css/js.js"></script>

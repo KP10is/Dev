@@ -1,3 +1,16 @@
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5dc928c643be710e1d1cb1e3/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+
+
 <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
@@ -8,7 +21,7 @@
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Amadahomé à 100m du bvd du 30 Août, sur la route du cap</span></li>
                   <li><a href="#"><span class="icon icon-phone"></span><span class="text">+228 91 01 59 80 / 91 01 61 47</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">infos@kp10is.com</span></a></li>
+                  <li><a href="mailto:infos@kp10is.com"><span class="icon icon-envelope"></span><span class="text">infos@kp10is.com</span></a></li>
                 </ul>
               </div>
             </div>
@@ -76,7 +89,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                   © KP10 IS 2019. Tous droits réservés
+                   © KP10 IS 2019. Tous droits réservés.
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
@@ -90,6 +103,7 @@
 
 
   <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>

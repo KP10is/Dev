@@ -7,6 +7,8 @@
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
@@ -80,11 +82,10 @@
             <li class="nav-item"><a href="index.php" class="nav-link pl-0">Accueil</a></li>
             
             <li class="nav-item"><a href="project.php" class="nav-link">Nos Services</a></li>
-            <li class="nav-item"><a href="services.php" class="nav-link">Nos Packages</a></li>
-        <li class="nav-item"><a href="services.php" class="nav-link">Nos Formules</a></li>
-            <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+            <li class="nav-item"><a href="packages.php" class="nav-link">Nos Packages</a></li>
+        <li class="nav-item"><a href="formules.php" class="nav-link">Nos Formules</a></li>
+ <!--            <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li> -->
             <li class="nav-item"><a href="contact.php" class="nav-link">Contactez-nous</a></li>
-        <li class="nav-item"><a href="about.php" class="nav-link">A propos de Nous</a></li>
           </ul>
         </div>
    
