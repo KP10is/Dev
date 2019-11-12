@@ -37,14 +37,14 @@
 						<div class="row mt-5">
 							<div class="col-lg-6">
 								<div class="services active text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fas fa-star "><span class="fas fa-star"></span></span></div><br>
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star"><span class="icon-star"></span></span></div><br>
 									<div class="text media-body">
 										<h3>PACK À 2 ÉTOILES</h3>
 										<p> Vous avez 5% de réduction gratos pour tout service. <br> <strong>Souscription : 2 000 FCFA</strong> </p>
 									</div>
 								</div>
 								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fas fa-star "><span class="fas fa-star "></span><span class="fas fa-star "></span><span class="fas fa-star"></span></div>
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star "><span class="icon-star "></span><span class="icon-star "></span><span class="icon-star"></span></div>
 									<div class="text media-body"> <br>
 										<h3>PACK À 4 ÉTOILES</h3>
 										<p>Vous avez 10% de réduction gratos pour tout service. <br> <strong>Souscription : 10 000 FCFA</strong></p>
@@ -53,17 +53,17 @@
 							</div>
 							<div class="col-lg-6">
 								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fas fa-star"></span><span class="fas fa-star"><span class="fas fa-star"></div><br>
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star"></span><span class="icon-star"><span class="icon-star"></div><br>
 									<div class="text media-body">
 										<h3>PACK À 3 ÉTOILES</h3>
 										<p>Vous avez 8% de réduction gratos pour tout service. <br> <strong>Souscription : 5 000 FCFA</strong></p>
 									</div>
 								</div>
 								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="far fa-smile-wink"></span></div>
+									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-thumbs-up"></span></div>
 									<div class="text media-body"> <br>
 										<h3 style="font-size: 1em;">NOUVELLE ENTREPRISE ?</h3>
-										<p> Pour les nouvelles entreprises (dont la durée de vie est inférieure ou égal à 6 mois) <br> <strong>La souscription est à 0 FCFA </strong> <p>
+										<p> Pour les nouvelles entreprises (dont la durée de vie est inférieure ou égale à 6 mois) <br> <strong>La souscription est à 0 FCFA </strong> <p>
 									</div>
 								</div>
 							</div>
@@ -84,7 +84,7 @@
 				<div class="row no-gutters">
 					<div class="col-lg-3 d-flex">
 						<div class="services-2 noborder-left text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fa fa-check"></span></div>
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-check"></span></div>
 							<div class="text media-body">
 								<h3>Bonus diaspora</h3>
 								<p>Tous les membres de toute votre famille bénéficient d’une réduction de 20% sur tous nos services</p>
@@ -93,7 +93,7 @@
 					</div>
 					<div class="col-lg-3 d-flex">
 						<div class="services-2 text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fa fa-check"></span></div>
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-check"></span></div>
 							<div class="text media-body">
 								<h3>Bonus Pub</h3>
 								<p>Nous vous rendons visibles auprès de tous nos clients</p>
@@ -102,7 +102,7 @@
 					</div>
 					<div class="col-lg-3 d-flex">
 						<div class="services-2 text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fa fa-check"></span></div>
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-check"></span></div>
 							<div class="text media-body">
 								<h3>Bonus Red15</h3>
 								<p>Vos clients bénéficient de 15% de réduction sur toutes nos formations (leadership, entreprenariat, gestion de ses finances, informatique…)</p>
@@ -111,7 +111,7 @@
 					</div>
 					<div class="col-lg-3 d-flex">
 						<div class="services-2 noborder-left noborder-bottom text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="fa fa-check"></span></div>
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-check"></span></div>
 							<div class="text media-body">
 								<h3>Bonus Red10</h3>
 								<p>Vos salariés bénéficient de 10% de réduction sur toutes nos formations (Leadership, travail d’équipe, gestion des crises et des humeurs, informatique…)</p>
@@ -124,4 +124,4 @@
     <?php include('include/footer.php'); ?>
   </body>
 </html>
-  <script src="include/css/js.js"></script>
+ <!--  <script src="include/css/js.js"></script> -->

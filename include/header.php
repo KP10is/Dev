@@ -24,70 +24,53 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
-  <body>
 
-    <div class=" row bg-top navbar-light col-lg-12">
-      <a class="navbar-brand col-lg-1" href="index.php"><span class="logo"><img src="images/logo.png" class="res" width="100%"></span></a>
-      <blockquote class="col-lg-9" style="text-align: center;">
-  <p style="margin-top: 1.0em"> On ne naît pas femme : on le devient… C’est l’ensemble de la civilisation qui élabore ce produit intermédiaire entre le mâle et le castrat qu’on qualifie de féminin.
-  <br><small>— Simone de Beauvoir</small></p> 
+
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-sm-2 order-first">
+
+ <a class="navbar-brand col-sm-2 order-first" href="index.php"><span class="logo"><img src="images/logo.png" class="img-responsive"></span></a>
+
+  </div>
+    <div class="col-sm-1 order-last">
+    
+<a class="navbar-brand col-sm-2" href="https://www.google.fr/maps/@6.1979046,1.1509591,15z"><span class="logo1"><img src="images/loca.png" class="img-responsive" title="Cliquez pour accedez à notre localisation"></span></a>
+  </div>
+
+      <div class="col-sm-8 order-2">
+
+ <blockquote style="text-align: center;">
+  <p style="margin-top: 1.0em"> Notre pouvoir scientifique a dépassé notre pouvoir spirituel. Nous savons guider des missiles.
+  <br><small>— Martin Luther King</small></p> 
 </blockquote>
-<a class="navbar-brand col-lg-1" href="https://www.google.fr/maps/@6.1979046,1.1509591,15z"><span class="logo1"><img src="images/loca.png" width="50%" title="Cliquez pour accedez à notre localisation"></span></a>
-</div>
-<!-- 
-      <div class="container">
-        <div class="row no-gutters d-flex align-items-center align-items-stretch">
 
-          <div class="col-lg-12 d-block">
-            <div class="row d-flex">
-              <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
-                <div class="icon d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-                <div class="text">
-                  <span>Ecrivez-nous</span>
-                  <span>infos@kp10is.com</span>
-                </div>
-              </div>
-              <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
-                <div class="icon d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-                <div class="text">
-                  <span>Appelez-nous</span>
-                  <span> + 228 910 159 80 </span>
-                </div>
-              </div>
-              <div class="col-md topper d-flex align-items-center justify-content-end">
-                <p class="mb-0 d-block">
-                  <a href="#" class="btn py-2 px-3 btn-primary">
-                    <span>Demandez un Rappel </span>
-                  </a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
-    </div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
       <div class="container d-flex align-items-center">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="oi oi-menu"></span> Menu
         </button>
-        <form action="#" class="searchform order-lg-last">
-          <div class="form-group d-flex">
-            <input type="text" class="form-control pl-3" placeholder="Rechercher">
-            <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
-          </div>
-        </form>
+
         <div class="collapse navbar-collapse" id="ftco-nav">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item"><a href="index.php" class="nav-link pl-0">Accueil</a></li>
             
-            <li class="nav-item"><a href="project.php" class="nav-link">Nos Services</a></li>
+            <li class="nav-item"><a href="services.php" class="nav-link">Nos Services</a></li>
             <li class="nav-item"><a href="packages.php" class="nav-link">Nos Packages</a></li>
         <li class="nav-item"><a href="formules.php" class="nav-link">Nos Formules</a></li>
  <!--            <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li> -->
+            <li class="nav-item"><a href="devis.php" class="nav-link">Demander un devis</a></li>
+            <li class="nav-item"><a href="contact.php" class="nav-link">Commander un service</a></li>
             <li class="nav-item"><a href="contact.php" class="nav-link">Contactez-nous</a></li>
           </ul>
         </div>
    
       </div>
-    </nav>
+    </nav><p style="font-style: italic; text-align: center; padding-top: 0.5em; color: #003366; text-transform: uppercase; ">" KP10 IS, Toujours innover pour vous satisfaire "</p>
+
+
+
+  </div>
+
+</div></div>

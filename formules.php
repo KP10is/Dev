@@ -119,7 +119,7 @@
           </div>
         </div>
 				<div class="row no-gutters">
-					<div class="col-lg-4 d-flex">
+					<div class="col-lg-3 d-flex">
 						<div class="services-2 noborder-left text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
 							<div class="text media-body">
@@ -128,7 +128,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 d-flex">
+					<div class="col-lg-3 d-flex">
 						<div class="services-2 text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-business"></span></div>
 							<div class="text media-body">
@@ -137,12 +137,21 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 d-flex">
+					<div class="col-lg-3 d-flex">
 						<div class="services-2 text-center ftco-animate">
 							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-insurance"></span></div>
 							<div class="text media-body">
 								<h3>The Last Big</h3>
 								<p>Pack à 4 étoiles + Bonus Pub + Bonus Red10 + Bonus Red15 <br> Souscription : 100 000 FCFA</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 d-flex">
+						<div class="services-2 text-center ftco-animate">
+							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-thumbs-up"></span></div><br>
+							<div class="text media-body">
+								<h3>Nouvelle Entreprise ?</h3>
+								<p>Souscrivez à nos formules et beneficiez d'une reduction de 50%</p>
 							</div>
 						</div>
 					</div>

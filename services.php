@@ -1,140 +1,321 @@
 <!DOCTYPE html>
 <html lang="en">
+    <link rel="stylesheet" href="css/style_2.css" type="text/css" media="all" />
+	  <link rel="stylesheet" href="css/slider.css" type="text/css" media="all" />
+	     <link href="css/font-awesome.css" rel="stylesheet">
    <?php include('include/header.php'); ?>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row no-gutters slider-text align-items-center justify-content-center">
-          <div class="col-md-9 ftco-animate text-center">
-            <h1 class="mb-2 bread">Services</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Services <i class="ion-ios-arrow-forward"></i></span></p>
-          </div>
-        </div>
-      </div>
-    </section>
+    
+    <body>
+    	<section class="py-5" id="services">
+	<div class="container py-md-5 py-3">
+	  <h5 class="heading mb-2">Nous fournissons</h5>
+		<h3 class="heading  mb-5">Des services impressionnants</h3>
 
-    <section class="ftco-section ftco-no-pb">
-			<div class="container">
-				<div class="row d-flex">
-					<div class="col-md-5 order-md-last wrap-about align-items-stretch">
-						<div class="wrap-about-border ftco-animate">
-							<div class="img" style="background-image: url(images/about.jpg); border"></div>
-							<div class="text">
-								<h3>Read Our Success Story for Inspiration</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
-								<p><a href="#" class="btn btn-primary py-3 px-4">Contact us</a></p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
-          	<h2 class="mb-4">Our Main Features</h2>
-						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
-						<div class="row mt-5">
-							<div class="col-lg-6">
-								<div class="services active text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
-									<div class="text media-body">
-										<h3>Organization</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									</div>
-								</div>
-								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
-									<div class="text media-body">
-										<h3>Risk Analysis</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-6">
-								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
-									<div class="text media-body">
-										<h3>Marketing Strategy</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									</div>
-								</div>
-								<div class="services text-center">
-									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-handshake"></span></div>
-									<div class="text media-body">
-										<h3>Capital Market</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+
+
+<div class="" style="height: 100%; height: 50px; background-color: #003366; font-size: 2em; color: white;">
+	<span style="margin-left: 0.5em; padding-bottom: 5em;">Statistiques et Prévisions</span>
+</div><br>
+
+
+		<div class="feature-grids row" style="font-size: 1em;">
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>01</span>
+					<h3 class="mt-4">Sondage </h3>
+					
 				</div>
 			</div>
-		</section>
-
-    <section class="ftco-section">
-			<div class="container">
-				<div class="row justify-content-center mb-5 pb-2">
-          <div class="col-md-8 text-center heading-section ftco-animate">
-            <h2 class="mb-4">Our Best Services</h2>
-            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
-          </div>
-        </div>
-				<div class="row no-gutters">
-					<div class="col-lg-4 d-flex">
-						<div class="services-2 noborder-left text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-analysis"></span></div>
-							<div class="text media-body">
-								<h3>Business Analysis</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 d-flex">
-						<div class="services-2 text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-business"></span></div>
-							<div class="text media-body">
-								<h3>Business Consulting</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 d-flex">
-						<div class="services-2 text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-insurance"></span></div>
-							<div class="text media-body">
-								<h3>Business Insurance</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 d-flex">
-						<div class="services-2 noborder-left noborder-bottom text-center ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-money"></span></div>
-							<div class="text media-body">
-								<h3>Global Investigation</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 d-flex">
-						<div class="services-2 text-center noborder-bottom ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-rating"></span></div>
-							<div class="text media-body">
-								<h3>Audit &amp; Evaluation</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 d-flex">
-						<div class="services-2 text-center noborder-bottom ftco-animate">
-							<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
-							<div class="text media-body">
-								<h3>Marketing Strategy</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
-							</div>
-						</div>
-					</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>02</span>
+					<h3 class="mt-4"> Analyse de données</h3>
+					
 				</div>
 			</div>
-		</section>
-    <?php include('include/footer.php'); ?>
-  </body>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>03</span>
+					<h3 class="mt-4"> Modélisation</h3>
+					
+				</div>
+			</div>
+		
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>04</span>
+					<h3 class="mt-4">Prédiction</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6  mb-5">
+				<div class="bottom-gd">
+					<span>05</span>
+					<h3 class="mt-4"> Évaluation d'impact de projets</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>06</span>
+					<h3 class="mt-4">Étude de marché</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>07</span>
+					<h3 class="mt-4">Analyse des risques</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>08</span>
+					<h3 class="mt-4">Conception de stratégie de marketing</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>09</span>
+					<h3 class="mt-4">Gestion de chantier de A à Z</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>10</span>
+					<h3 class="mt-4">Gestion d'entreprise de A à Z</h3>
+				</div>
+			</div>
+			</div>
+<!--         <form action="#" class="searchform order-lg-last">
+          <div class="form-group d-flex">
+            <input type="text" class="form-control pl-3" placeholder="Rechercher">
+            <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
+          </div>
+        </form> -->
+<div class="" style="height: 100%; height: 50px; background-color: #003366; font-size: 2em; color: white;">
+	<span style="margin-left: 0.5em; padding-bottom: 5em;">Développement Informatique</span>
+      </div><br>
+
+<div class="feature-grids row" style="font-size: 1em;">
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>01</span>
+					<h3 class="mt-4">Application desktop </h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>02</span>
+					<h3 class="mt-4"> Application mobile</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>03</span>
+					<h3 class="mt-4"> Application web</h3>
+					
+				</div>
+			</div>
+		
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>04</span>
+					<h3 class="mt-4">Conception de site web</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6  mb-5">
+				<div class="bottom-gd">
+					<span>05</span>
+					<h3 class="mt-4"> Blog</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>06</span>
+					<h3 class="mt-4">Conception de map personnalisé</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>07</span>
+					<h3 class="mt-4">Visualisation de données</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>08</span>
+					<h3 class="mt-4">Conseil</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>09</span>
+					<h3 class="mt-4">Conception de jeux vidéos</h3>
+				</div>
+			</div>
+			</div>
+
+<div class="" style="height: 50px; background-color: #003366; font-size: 2em; color: white;">
+	<span style="margin-left: 0.5em; padding-bottom: 5em;">Infographie & Design</span>
+      </div><br>
+
+<div class="feature-grids row" style="font-size: 1em;">
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>01</span>
+					<h3 class="mt-4">Affiche publicitaire </h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>02</span>
+					<h3 class="mt-4">Carte d'invitation</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>03</span>
+					<h3 class="mt-4"> Calendrier & Badge</h3>
+					
+				</div>
+			</div>
+		
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>04</span>
+					<h3 class="mt-4">Evenementiel</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6  mb-5">
+				<div class="bottom-gd">
+					<span>05</span>
+					<h3 class="mt-4"> Cover & Flyers</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>06</span>
+					<h3 class="mt-4">Magazine & Livre</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>07</span>
+					<h3 class="mt-4">Kakemono / Plaquette</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>08</span>
+					<h3 class="mt-4">Sérigraphie / Edition</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>09</span>
+					<h3 class="mt-4">Création et gestion de page</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>10</span>
+					<h3 class="mt-4">Conception / refonte de logo</h3>
+				</div>
+			</div>
+			</div>
+
+
+<div class="" style="height: 50px; background-color: #003366; font-size: 2em; color: white; padding-bottom: 10px;">
+	<span style="margin-left: 0.5em; padding-bottom: 5em;">Maintenance Informatique</span>
+      </div><br>
+
+<div class="feature-grids row" style="font-size: 1em;">
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>01</span>
+					<h3 class="mt-4">Audits & conseil </h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>02</span>
+					<h3 class="mt-4"> Contrat de maintenance</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>03</span>
+					<h3 class="mt-4"> Gestion de messagerie</h3>
+					
+				</div>
+			</div>
+		
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>04</span>
+					<h3 class="mt-4">Infogérance</h3>
+					
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-6  mb-5">
+				<div class="bottom-gd">
+					<span>05</span>
+					<h3 class="mt-4"> Installation des logiciels</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>06</span>
+					<h3 class="mt-4">Vidéo surveillance</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>07</span>
+					<h3 class="mt-4">Traceur GPS</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>08</span>
+					<h3 class="mt-4">Téléphonie sur IP</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>09</span>
+					<h3 class="mt-4">Sécurité informatique</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>10</span>
+					<h3 class="mt-4">Sauvegarde et recupération de données</h3>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-3 col-sm-3 mb-5">
+				<div class="bottom-gd">
+					<span>11</span>
+					<h3 class="mt-4">Déploiement et migration des postes et serveurs</h3>
+				</div>
+			</div>
+			</div>
+
+
+
+
+</div>
+
+	</div>
+</section>
+    </body>
+
+  <?php include('include/footer.php'); ?>
 </html>
