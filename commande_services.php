@@ -5,13 +5,13 @@
     <!-- END nav -->
     
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_8.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_5.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
-            <h1 class="mb-2 bread">Demander un devis</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Demande de devis <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-2 bread">Commander un service</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Commande de service<i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -19,7 +19,7 @@
 
 <div class="container">  
   <form id="contact" action="" method="post">
-    <h3>Demande de devis</h3>
+    <h3>Commande de services</h3>
     <fieldset>
       <input placeholder="Nom" type="text" tabindex="1" required autofocus>
     </fieldset>

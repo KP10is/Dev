@@ -6,6 +6,19 @@
    <?php include('include/header.php'); ?>
     
     <body>
+
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/about.jpg');">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-center">
+          <div class="col-md-9 ftco-animate text-center">
+            <h1 class="mb-2 bread">Nos services</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Services <i class="ion-ios-arrow-forward"></i></span></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     	<section class="py-5" id="services">
 	<div class="container py-md-5 py-3">
 	  <h5 class="heading mb-2">Nous fournissons</h5>

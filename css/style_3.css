@@ -1,24 +1,18 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
 
-body { 
-  font-family: 'Open Sans', 'sans-serif';
-  color: #cecece;
-  background: #222;
-  overflow: hidden;
-}
 
 .item-1, 
 .item-2, 
 .item-3 {
-	position: relative;
+	position: absolute;
   display: block;
+  margin-left: 5em;
 
   
-  width: 100%;
-  
-  font-size: 2em;
 
-	animation-duration: 50s;
+  
+  font-size: 1em;
+
+	animation-duration: 40s;
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: infinite;
 }
