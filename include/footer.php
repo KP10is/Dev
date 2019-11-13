@@ -66,8 +66,8 @@ s0.parentNode.insertBefore(s1,s0);
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos clients</a></li>
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos partenaires</a></li>
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos formations</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos services</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
+                <li><a href="services.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos services</a></li>
+                <li><a href="mailto:info@kp10is.com"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
               </ul>
             </div>
           </div>
@@ -85,8 +85,8 @@ s0.parentNode.insertBefore(s1,s0);
               <h2 class="ftco-heading-2 mb-0">Nous suivre</h2>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/capitaine.is.94"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-linkedin"></span></a></li>
               </ul>
             </div>
           </div>
