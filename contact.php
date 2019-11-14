@@ -34,7 +34,7 @@
 		          	<div class="icon">
 		          		<span class="icon-envelope-o"></span>
 		          	</div>
-		            <p><span>Informations ?</span> <a href="mailto:info@kp10is.com">info@kp10is.com</a></p>
+		            <p><span>Informations ?</span> <a href="mailto:infos@kp10is.com">infos@kp10is.com</a></p>
 		          </div>
               <div class="col-md-3 text-center py-4">
                 <div class="icon">

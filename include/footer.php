@@ -67,7 +67,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos partenaires</a></li>
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos formations</a></li>
                 <li><a href="services.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos services</a></li>
-                <li><a href="mailto:info@kp10is.com"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
+                <li><a href="mailto:infos@kp10is.com"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
               </ul>
             </div>
           </div>

@@ -36,7 +36,7 @@
   </div>
     <div class="col-lg-1 order-last">
     
-<a class="navbar-brand" href="https://www.google.fr/maps/@6.1979046,1.1509591,15z"><span class="logo1"><img src="images/loca.png" class="img-responsive rounded-circle" title="Cliquez pour accedez à notre localisation"></span></a>
+<a class="navbar-brand" href="https://www.google.fr/maps/@6.1979046,1.1509591,15z"><span class="logo1"><img src="images/loca.png" class="img-responsive" title="Cliquez pour accedez à notre localisation"></span></a>
   </div>
 
       <div class="col-lg-9 order-2">

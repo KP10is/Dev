@@ -108,7 +108,7 @@
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-code"></span></div>
 									<div class="text media-body">
-										<h3>Développemnt Informatique</h3>
+										<h3>Développement Informatique</h3>
 										<p>Nous développons tout type de site webs.</p>
 									</div>
 								</div>
@@ -276,7 +276,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">SEMAN Abidé</p>
+                    <p class="name">SAMAN Abidé</p>
                     <span class="position">Sécretaire Commerciale</span>
                   </div>
                 </div>
@@ -319,7 +319,7 @@
                     </span>
                     <p></p>
                     <p class="name">AGBO Wilfried</p>
-                    <span class="position">Analyste Programmeur</span>
+                    <span class="position">Project Leader</span>
                   </div>
                 </div>
               </div>
