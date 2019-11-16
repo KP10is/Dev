@@ -163,12 +163,12 @@ fieldset {
  }
 .logo
 {
-  margin-left: 1em;
+  padding-left: 1em;
   margin-top: 1em;
 }
 .logo1
 {
-  margin-left: 2em;
+  padding-left: 2em;
 }
 :root {
   --blue: #007bff;

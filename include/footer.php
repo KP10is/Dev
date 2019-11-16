@@ -22,7 +22,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row mb-5">
           <div class="col-md-6 col-lg-4">
             <div class="ftco-footer-widget mb-5">
-              <h2 class="ftco-heading-2">Nous contacter</h2>
+              <h2 class="ftco-heading-2">Nous écrire</h2>
               <div class="block-23 mb-3">
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Amadahomé à 100m du bvd du 30 Août, sur la route du cap</span></li>
@@ -85,8 +85,8 @@ s0.parentNode.insertBefore(s1,s0);
               <h2 class="ftco-heading-2 mb-0">Nous suivre</h2>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.facebook.com/capitaine.is.94"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-linkedin"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/KP10-is-101453517961970/"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.linkedin.com/company/kp10is/?viewAsMember=true"><span class="icon-linkedin"></span></a></li>
               </ul>
             </div>
           </div>

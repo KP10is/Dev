@@ -29,17 +29,17 @@
 
 <div class="container-fluid">
   <div class="row">
-  <div class="col-lg-1 order-first">
+  <div class="col-md-1 order-first">
 
  <a href="index.php"><span class="logo"><img src="images/logo.png" class="img-responsive"></span></a>
 
   </div>
-    <div class="col-lg-1 order-last">
+    <div class="col-md-1 order-last hidden-sm">
     
 <a class="navbar-brand" href="https://www.google.fr/maps/@6.1979046,1.1509591,15z"><span class="logo1"><img src="images/loca.png" class="img-responsive" title="Cliquez pour accedez à notre localisation"></span></a>
   </div>
 
-      <div class="col-lg-9 order-2">
+      <div class="col-md-9 order-2">
 
 
  <blockquote style="margin-top: 0.8em; text-align: center;">
@@ -68,7 +68,7 @@
  <!--            <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li> -->
             <li class="nav-item"><a href="devis.php" class="nav-link">Demander un devis</a></li>
             <li class="nav-item"><a href="commande_services.php" class="nav-link">Commander un service</a></li>
-            <li class="nav-item"><a href="contact.php" class="nav-link">Contactez-nous</a></li>
+            <li class="nav-item"><a href="contact.php" class="nav-link">Nous Écrire</a></li>
           </ul>
         </div>
    

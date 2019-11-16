@@ -6,8 +6,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
-            <h1 class="mb-2 bread">Nous contacter</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Contacts <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-2 bread">Contacter ou Suggerer</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Écrire <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@
                           </div>
 
           <div class="col-md-6 mb-md-5">
-            <h2 class="text-center">Veuillez nous écrire pour d'autres informations. <br> Merci.</h2>
+            <h2 class="text-center" style="font-size: 1em;">Veuillez nous écrire pour d'autres informations ou suggestions. <br> Merci.</h2>
             <form action="#" class="bg-light p-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Votre nom">
