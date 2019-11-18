@@ -82,7 +82,7 @@
 						<p><span class="kp10is_1">Capitaine de l'Informatique et des Statistiques</span> offre plusieurs services dans le domaine de l'Infographie, Satistiques, Développement Informatique et la Maintenance des Systèmes et Réseaux.</p>
 						<div class="row mt-5">
 							<div class="col-lg-6">
-								<div class="services active text-center">
+								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
 									<div class="text media-body">
 										<h3>Infographie</h3>
@@ -220,7 +220,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">MADJOULBA Demadama</p>
+                    <p class="name">Demadama MADJOULBA</p>
                     <span class="position">Support Informatique</span>
                   </div>
                 </div>
@@ -234,7 +234,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">LATA K. Honoré</p>
+                    <p class="name">Honoré K. LATA </p>
                     <span class="position">Analyste Programmeur</span>
                   </div>
                 </div>
@@ -248,7 +248,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">DOSSA D. K. Alain </p>
+                    <p class="name">Alain D. K. DOSSA</p>
                     <span class="position">Infographiste</span>
                   </div>
                 </div>
@@ -262,7 +262,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">DJANGBEGOU Matieyendou</p>
+                    <p class="name">Matieyendou DJANGBEGOU</p>
                     <span class="position">Chargé Commercial</span>
                   </div>
                 </div>
@@ -276,7 +276,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">SAMAN Abidé</p>
+                    <p class="name">Abidé SAMAN</p>
                     <span class="position">Sécretaire Commerciale</span>
                   </div>
                 </div>
@@ -290,7 +290,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">ADJOYI Emmanuel</p>
+                    <p class="name">Emmanuel ADJOYI</p>
                     <span class="position">Comptable</span>
                   </div>
                 </div>
@@ -304,7 +304,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">DJASSE Bidane</p>
+                    <p class="name">Bidane DJASSE</p>
                     <span class="position">Responsable Entreprise</span>
                   </div>
                 </div>
@@ -318,7 +318,7 @@
                       <i class=""></i>
                     </span>
                     <p></p>
-                    <p class="name">AGBO Wilfried</p>
+                    <p class="name">Wilfried AGBO</p>
                     <span class="position">Project Leader</span>
                   </div>
                 </div>
@@ -332,27 +332,5 @@
   </body>
   <!--Start of Tawk.to Script-->
 <!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-window.fbAsyncInit = function() {
-  FB.init({
-    xfbml            : true,
-    version          : 'v4.0'
-  });
-};
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/fr_FR/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your customer chat code -->
-<div class="fb-customerchat"
-  attribution=install_email
-  page_id="101453517961970">
-</div>
 <!--End of Tawk.to Script-->
 </html>

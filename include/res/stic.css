@@ -1,0 +1,86 @@
+body{
+	font-family: "Verdana";
+	font-size: 15px;
+	background-color:#BF42CA;
+	background-image:url("Sans titre.png");
+	margin:0px;
+	padding:0px;
+	}
+	
+
+	#ulmenu{
+	width:100%;
+	position:fixed;
+	top:90%;
+	left:0px;
+	z-index:1;
+	
+	}
+	
+	#ulmenu ul{
+	margin:auto;
+	width:480px;
+	height:10%;
+	background-color:#EDECE8;
+	border-radius:5px;
+	list-style-type:none;
+	box-shadow: 10px 10px 10px #000000;
+	}
+
+	.titre{
+	font-weight: bold;
+	font-size: 20px;
+	padding:5px;
+	display:inline;
+	text-align:center;
+	line-height:30px;
+	cursor:pointer;
+	text-shadow: 10px 10px 10px #888888;
+	}
+
+	.titre:hover{
+	color:#FF5800;
+	}
+	
+	#autre{
+	width:15%;
+	height:20%;
+	background-color:#EDECE8;
+	position:fixed;
+	top:250%;
+	left:3%;
+	opacity:0.8;
+	z-index:1;
+	box-shadow: 10px 10px 10px #000000;
+	}
+	
+	#autre2{
+	width:15%;
+	height:20%;
+	background-color:#EDECE8;
+	position:fixed;
+	top:160%;
+	left:82%;
+	opacity:0.8;
+	z-index:1;
+	box-shadow: 10px 10px 10px #000000;
+	}
+	
+	#contenu{
+	
+		width: 60%;
+		margin: 0 auto;
+		margin-top:20px;
+		padding:10px;
+		background: #D0C2CF;
+	}
+	
+	#header{
+		background: #3E3E3E;
+		background-image: url("../image/wal.jpg");
+		background-position: center;
+		background-size: 100% 100%;
+		background-attachment: fixed;
+		height: 100%;
+		margin: 0 auto;
+	}

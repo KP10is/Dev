@@ -36,7 +36,7 @@
 						<p>Choisissez KP10 IS tout au long de l’année pour plusieurs services dans plusieurs domaines et gagner des centaines de milliers de Francs chaque année :</p>
 						<div class="row mt-5">
 							<div class="col-lg-6">
-								<div class="services active text-center">
+								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star"><span class="icon-star"></span></span></div><br>
 									<div class="text media-body">
 										<h3>PACK À 2 ÉTOILES</h3>
