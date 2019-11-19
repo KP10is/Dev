@@ -1,0 +1,26 @@
+<pages>
+<link>
+<title>Capitaine Informatique et Statistiques</title>
+<url>http://localhost/dev2/Dev/index.php</url>
+</link>
+<link>
+<title>Demander devis</title>
+<url>http://localhost/dev2/Dev/devis.php</url>
+</link>
+<link>
+<title>Commander un service</title>
+<url>http://localhost/dev2/Dev/commander.php</url>
+</link>
+<link>
+<title>Contactez-nous</title>
+<url>http://localhost/dev2/Dev/conatct.php</url>
+</link>
+<link>
+<title>Nos Formules</title>
+<url>http://localhost/dev2/Dev/formules.php</url>
+</link>
+<link>
+<title>Nos Packages</title>
+<url>http://localhost/dev2/Dev/packages.php</url>
+</link>
+</pages>
