@@ -79,7 +79,7 @@
 					</div>
 					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
           	<h2 class="mb-4">Nos Domaines</h2>
-						<p><span class="kp10is_1">Capitaine de l'Informatique et des Statistiques</span> offre plusieurs services dans le domaine de l'Infographie, Satistiques, Développement Informatique et la Maintenance des Systèmes et Réseaux.</p>
+						<p><span class="kp10is_1">Capitaine de l'Informatique et des Statistiques</span> offre plusieurs services dans le domaine de l'Infographie, Satistiques, du Développement Informatique et de la Maintenance des Systèmes et Réseaux.</p>
 						<div class="row mt-5">
 							<div class="col-lg-6">
 								<div class="services text-center">
@@ -109,7 +109,7 @@
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-code"></span></div>
 									<div class="text media-body">
 										<h3>Développement Informatique</h3>
-										<p>Nous développons tout type de site webs.</p>
+										<p>Nous développons tout type de sites web.</p>
 									</div>
 								</div>
 							</div>

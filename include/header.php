@@ -29,10 +29,10 @@
 
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-1 col-4">
-        <a class="navbar-brand" href="index.php"><img src="images/logo.png" class="img-responsive" style="width: 100%;"></a>
+      <div class="col-md-1">
+        <a class="navbar-brand" href="index.php"><img src="images/logo.png" class="img-responsive" style="width: 100%; margin-left: 20px;"></a>
       </div>
-      <div class="col-md-10 col-12" id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="20000">
+      <div class="col-md-10 " id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="20000">
          <div class="carousel-inner" role="listbox">
             <div class="carousel-item active text-center p-4">
                  <p>La question la plus essentielle de la vie est, que faites-vous pour les autres ?<small> -Martin Luther King</small></p>

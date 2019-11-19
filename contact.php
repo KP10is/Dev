@@ -81,7 +81,13 @@
               <p class="mb-0"><a href="mailto:infos@kp10is.com">infos@kp10is.com</a></p><br>
 
               <p class="mb-0 font-weight-bold">Email pour partenariat</p>
-              <p class="mb-0"><a href="mailto:direction@kp10is.com">direction@kp10is.com</a></p>
+              <p class="mb-0"><a href="mailto:direction@kp10is.com">direction@kp10is.com</a></p><br>
+
+              <p class="mb-0 font-weight-bold">Page facebook</p>
+              <p class="mb-0"><a href="https://www.facebook.com/KP10-is-101453517961970/">Cliquez pour nous suivre sur Facebook</a></p><br>
+
+              <p class="mb-0 font-weight-bold">Page LinkedIn</p>
+              <p class="mb-0"><a href="https://www.linkedin.com/company/kp10is/?viewAsMember=true">Cliquez pour nous suivre sur LinkedIn</a></p>
 
             </div>
             
