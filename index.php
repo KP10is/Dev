@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
     <!-- END nav -->
     <?php include('include/header.php'); ?>
+    <title>Accueil | KP10 IS</title>
     <body>
     <section class="home-slider owl-carousel">
       <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
@@ -12,7 +12,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Chez nous à KP10 IS, Vous êtes </span>
             <h1 class="mb-4">Plus que des clients, Vous êtes des partenaires</h1>
-<!--             <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
+<!--             <p><a href="services.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
           </div>
         </div>
         </div>
@@ -25,7 +25,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Bienvenue à KP10 IS</span>
             <h1 class="mb-4">Nous innovons pour vous satisfaire</h1>
-<!--             <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
+<!--             <p><a href="services.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
           </div>
         </div>
         </div>
@@ -38,7 +38,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Chez nous à KP10 IS, nous avons</span>
             <h1 class="mb-4">Les meilleurs collaborateurs pour vous</h1>
-<!--             <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
+<!--             <p><a href="services.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
           </div>
         </div>
         </div>
@@ -51,7 +51,7 @@
           <div class="col-md-7 ftco-animate">
           	<span class="subheading">Bienvenue à KP10 IS</span>
             <h1 class="mb-4">L'innovation au coeur de notre philosophie</h1>
-<!--             <p><a href="devis.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
+<!--             <p><a href="services.php" class="btn btn-primary px-4 py-3 mt-3">Demandez un devis</a></p> -->
           </div>
         </div>
         </div>
@@ -79,39 +79,45 @@
 					</div>
 					<div class="col-md-7 wrap-about pr-md-4 ftco-animate">
           	<h2 class="mb-4">Nos Domaines</h2>
-						<p><span class="kp10is_1">Capitaine de l'Informatique et des Statistiques</span> offre plusieurs services dans le domaine de l'Infographie, Satistiques, du Développement Informatique et de la Maintenance des Systèmes et Réseaux.</p>
+						<p><span class="kp10is_1">Capitaine de l'Informatique et des Statistiques</span> offre plusieurs services dans le domaine de l'Infographie, des Statistiques, du Développement Informatique et de la Maintenance des Systèmes et Réseaux.</p>
 						<div class="row mt-5">
-							<div class="col-lg-6">
+							<div class="col-lg-6 col-md-6">
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
 									<div class="text media-body">
-										<h3>Infographie</h3>
+										<a href="services.php"><h3>Infographie</h3></a>
 										<p>Confiez-nous la conception de vos affiches publicitaires, flyers, bâches, carte de voeux...</p>
 									</div>
 								</div>
+                </div>
+              <div class="col-lg-6 col-md-6">
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-windows"></span></div>
 									<div class="text media-body">
-										<h3>Maintenance et Réseaux Informatique</h3>
-										<p>Nous deployons des réseaux informatiques, assurons la migration de vos postes...</p>
+										<a href="services.php"><h3>Maintenance et Réseaux Informatiques</h3></a>
+										<p>Nous déployons des réseaux informatiques, assurons la migration de vos postes...</p>
 									</div>
 								</div>
 							</div>
+
 							<div class="col-lg-6">
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
 									<div class="text media-body">
-										<h3>Statistiques et Prévisions</h3>
+										<a href="services.php"><h3>Statistiques et Prévisions</h3></a>
 										<p>Concerne tout ce qui est du traitement et analyse des données ainsi que des prévisions.</p>
 									</div>
 								</div>
-								<div class="services text-center">
+                </div>
+                <div class="col-lg-6">
+								<div class="services text-center" >
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-code"></span></div>
 									<div class="text media-body">
-										<h3>Développement Informatique</h3>
-										<p>Nous développons tout type de sites web.</p>
+										<a href="services.php"><h3 >Développement Informatique</h3></a>
+										<p>Nous développons tout type de sites web et applications mobiles/web/desktop.</p>
 									</div>
 								</div>
+                </div>
 							</div>
 						</div>
 					</div>
@@ -213,7 +219,7 @@
             <div class="carousel-testimony owl-carousel">
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_3.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -227,7 +233,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_4.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -255,7 +261,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_5.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -269,7 +275,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_1.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -283,7 +289,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_2.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -291,7 +297,7 @@
                     </span>
                     <p></p>
                     <p class="name">Emmanuel ADJOYI</p>
-                    <span class="position">Comptable</span>
+                    <span class="position">Gestionnaire Commercial</span>
                   </div>
                 </div>
               </div>

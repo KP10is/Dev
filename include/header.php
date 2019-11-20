@@ -1,5 +1,4 @@
   <head>
-    <title>Capitaine Informatique & Statistiques</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -24,15 +23,19 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/2ef8d8058c0694a305b0.css">
+    <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/b056d6397f4ba3108595.css">
+    <link rel="stylesheet" href="https://assets.sendinblue.com/component/progress-indicator/f86d65a4a9331c5e2851.css">
+    <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
   </head>
 
 
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-1">
-        <a class="navbar-brand" href="index.php"><img src="images/logo.png" class="img-responsive" style="width: 100%; margin-left: 20px;"></a>
+      <div class="col-lg-1 col-md-2 col-sm-12 center-block">
+        <a class="navbar-brand" href="index.php"><img src="images/logo1.png" class="img-fluid" style="width: 100%; margin-left: 33px;"></a>
       </div>
-      <div class="col-md-10 " id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="20000">
+      <div class="col-md-10 " id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="50000">
          <div class="carousel-inner" role="listbox">
             <div class="carousel-item active text-center p-4">
                  <p>La question la plus essentielle de la vie est, que faites-vous pour les autres ?<small> -Martin Luther King</small></p>
@@ -149,7 +152,37 @@
               <p>Avoir la foi, c’est monter la première marche même quand on ne voit pas tout l’escalier.<small> -Martin Luther King</small></p>
             </div>
             <div class="carousel-item text-center p-4">
-              <p>Réussir c’est peut-être difficile, mais abandonner l’est encore plus.<small> -Lance Amstrong</small></p>
+              <p>Les barricades sont les voix de ceux qu’on n’entend pas.<small> -Martin Luther King</small></p>
+            </div>
+            <div class="carousel-item text-center p-4">
+              <p>La haine engendre la haine ; la violence engendre la violence.<small> -Martin Luther King</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>L'éducation est l'arme la plus puissante pour changer le monde.<small> -Nelson Mandela </small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>Il nous faut apprendre à vivre ensemble comme des frères, sinon nous allons périr ensemble comme des imbéciles.<small> -Martin Luther King</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>Une nation qui produit de jour en jour des hommes stupides achète à crédit sa propre mort spirituelle.<small> -Martin Luther King</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>Quand tout semble être contre vous, souvenez-vous que l’avion décolle face au vent, et non avec lui.<small> -Henri Ford</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>La question n’est pas de savoir qui va me laisser passer, c’est de savoir qui va m’arrêter.<small> -Ayn Rand</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>Le plus difficile c’est de se décider à agir, le reste n’est que de la ténacité.<small> -Amelia Earhart</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>Nous sommes nos choix.<small> -Jean-Paul Sartre</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>Se donner le mal pour les petites choses, c’est parvenir aux grandes, avec le temps.<small> -William Faulkner</small></p>
+            </div>
+           <div class="carousel-item text-center p-4">
+              <p>La motivation c’est quand les rêves enfilent leurs habits de travail.<small> -Benjamin Franklin</small></p>
             </div>
         </div>
 
@@ -158,12 +191,6 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="oi oi-menu"></span> Menu
         </button>
-                <form action="#" class="searchform order-lg-last">
-          <div class="form-group d-flex">
-            <input type="text" class="form-control pl-3" placeholder="Rechercher">
-            <button type="submit" placeholder="" class="form-control search"><span class="ion-ios-search"></span></button>
-          </div>
-        </form>
         <div class="collapse navbar-collapse justify-content-between" id="ftco-nav">
           <ul class="navbar-nav mr-auto" >
             <li class="nav-item" ><a href="index.php" class="nav-link pl-0">Accueil</a></li>
@@ -179,10 +206,10 @@
    
       </div>
     </nav>
-    <p class="d-none d-md-block" style="font-style: italic; text-align: center; color: #003366; text-transform: uppercase; margin-bottom: 0.09em;">" KP10 IS, Toujours innover pour vous satisfaire "</p>
+    <p class="d-none d-md-block" style="font-style: bold; text-align: center; color: #003366; text-transform: uppercase; margin-bottom: 0.09em;">" KP10 IS, Toujours innover pour vous satisfaire "</p>
 
       </div>
-    <div class="col-md-1 d-none d-md-block col-lg-1">
+    <div class="col-md-1 d-none d-lg-block">
       <a class="navbar-brand img-responsive" href="https://www.google.fr/maps/@6.1979046,1.1509591,15z"><span><img src="images/loca.png" class="img-responsive" style="width: 100%;" title="Cliquez pour accedez à notre localisation"></span></a>
     </div>
     </div>   

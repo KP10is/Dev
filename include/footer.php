@@ -40,7 +40,7 @@ s0.parentNode.insertBefore(s1,s0);
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos partenaires</a></li>
                 <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos formations</a></li>
                 <li><a href="services.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos services</a></li>
-                <li><a href="mailto:infos@kp10is.com"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
+                <li><a href="mailto:rh@kp10is.com"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
               </ul>
             </div>
           </div>
@@ -229,8 +229,31 @@ s0.parentNode.insertBefore(s1,s0);
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Veuillez choisir un code pays';
+
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Les informations que vous avez fournies ne sont pas valides. Veuillez vérifier le format du champ et réessayer.";
+
+  window.REQUIRED_ERROR_MESSAGE = "Vous devez renseigner ce champ. ";
+
+  window.GENERIC_INVALID_MESSAGE = "Les informations que vous avez fournies ne sont pas valides. Veuillez vérifier le format du champ et réessayer.";
+
+  window.INVALID_NUMBER = "Les informations que vous avez fournies ne sont pas valides. Veuillez vérifier le format du champ et réessayer.";
+
+
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} liste sélectionnée',
+      selectedLists: '{quantity} listes sélectionnées'
+    }
+  };
+
+  var AUTOHIDE = Boolean(1);
+</script>
 
   <script src="js/jquery.min.js"></script>
+  <script src="js/livesearch.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/popper.min.js"></script>
@@ -245,3 +268,6 @@ s0.parentNode.insertBefore(s1,s0);
   <script src="js/scrollax.min.js"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
+  <script src="https://sibforms.com/forms/end-form/build/main.js">
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?hl=fr"></script>

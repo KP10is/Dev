@@ -1,0 +1,30 @@
+<pages>
+<link>
+<title>KP10 IS | Accueil</title>
+<url>http://localhost/Dev/index.php</url>
+</link>
+<link>
+<title>KP10 IS | Demander un devis</title> 
+<url>http://localhost/Dev/devis.php</url>
+</link>
+<link>
+<title>KP10 IS | Nous commander un service</title>
+<url>http://localhost/Dev/commande_services.php</url>
+</link>
+<link>
+<title>KP10 IS | Nous écrire ou suggerer</title>
+<url>http://localhost/Dev/contact.php</url>
+</link>
+<link>
+<title>KP10 IS | Nos formules</title>
+<url>http://localhost/Dev/formules.php</url>
+</link>
+<link>
+<title>KP10 IS | Nos packages</title>
+<url>http://localhost/Dev/packages.php</url>
+</link>
+<link>
+<title>KP10 IS | Nos ofres de services</title>
+<url>http://localhost/Dev/services.php</url>
+</link>
+</pages>

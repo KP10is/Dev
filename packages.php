@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
    <?php include('include/header.php'); ?>
-
-
+   <title>Nos packages | KP10 IS</title>
+   <body>
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_6.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
             <h1 class="mb-2 bread">Les Packages</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Packages <i class="ion-ios-arrow-forward"></i></span></p>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Accueil <i class="ion-ios-arrow-forward"></i></a></span> <span>Packages <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -39,15 +38,15 @@
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star"><span class="icon-star"></span></span></div><br>
 									<div class="text media-body">
-										<h3>PACK À 2 ÉTOILES</h3>
-										<p> Vous avez 5% de réduction gratos pour tout service. <br> <strong>Souscription : 2 000 FCFA</strong> </p>
+									<a href="devis.php"><h3>PACK À 2 ÉTOILES</h3></a>
+										<p> Vous avez 5% de réduction gratos pour tout service.</p>
 									</div>
 								</div>
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star "><span class="icon-star "></span><span class="icon-star "></span><span class="icon-star"></span></div>
 									<div class="text media-body"> <br>
-										<h3>PACK À 4 ÉTOILES</h3>
-										<p>Vous avez 10% de réduction gratos pour tout service. <br> <strong>Souscription : 10 000 FCFA</strong></p>
+										<a href="devis.php"><h3>PACK À 4 ÉTOILES</h3></a>
+										<p>Vous avez 10% de réduction gratos pour tout service.</p>
 									</div>
 								</div>
 							</div>
@@ -55,15 +54,15 @@
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-star"></span><span class="icon-star"><span class="icon-star"></div><br>
 									<div class="text media-body">
-										<h3>PACK À 3 ÉTOILES</h3>
-										<p>Vous avez 8% de réduction gratos pour tout service. <br> <strong>Souscription : 5 000 FCFA</strong></p>
+										<a href="devis.php"><h3>PACK À 3 ÉTOILES</h3></a>
+										<p>Vous avez 8% de réduction gratos pour tout service.</p>
 									</div>
 								</div>
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-thumbs-up"></span></div>
 									<div class="text media-body"> <br>
-										<h3 style="font-size: 1em;">NOUVELLE ENTREPRISE ?</h3>
-										<p> Pour les nouvelles entreprises (dont la durée de vie est inférieure ou égale à 6 mois) <br> <strong>La souscription est à 0 FCFA </strong> <p>
+										<a href="devis.php"><h3 style="font-size: 1em;">NOUVELLE ENTREPRISE ?</h3></a>
+										<p> Pour les nouvelles entreprises (dont la durée de vie est inférieure ou égale à 6 mois). <br> <strong>La souscription est à 0 FCFA </strong> <p>
 									</div>
 								</div>
 							</div>
@@ -121,7 +120,7 @@
 				</div>
 			</div>
 		</section>
-    <?php include('include/footer.php'); ?>
   </body>
+  <?php include('include/footer.php'); ?>
 </html>
  <!--  <script src="include/css/js.js"></script> -->
