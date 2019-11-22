@@ -22,7 +22,7 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="row mb-5">
           <div class="col-md-6 col-lg-4">
             <div class="ftco-footer-widget mb-5">
-              <h2 class="ftco-heading-2">Nous écrire</h2>
+              <h2 class="ftco-heading-2">Nous contacter</h2>
               <div class="block-23 mb-3">
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Amadahomé à 100m du bvd du 30 Août, sur la route du cap</span></li>
@@ -36,9 +36,9 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="ftco-footer-widget mb-5 ml-md-4">
               <h2 class="ftco-heading-2">Liens</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos clients</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos partenaires</a></li>
-                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos formations</a></li>
+                <li><a href="coming/en_construction.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos clients</a></li>
+                <li><a href="coming/en_construction.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos partenaires</a></li>
+                <li><a href="coming/en_construction.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos formations</a></li>
                 <li><a href="services.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Nos services</a></li>
                 <li><a href="mailto:rh@kp10is.com"><span class="ion-ios-arrow-round-forward mr-2"></span>Nous rejoindre</a></li>
               </ul>
@@ -205,9 +205,8 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="ftco-footer-widget mb-5">
               <h2 class="ftco-heading-2 mb-0">Nous suivre</h2>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.facebook.com/KP10-is-101453517961970/"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.linkedin.com/company/kp10is/?viewAsMember=true"><span class="icon-linkedin"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/KP10-is-101453517961970/" target="_blank"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.linkedin.com/company/kp10is/?viewAsMember=true" target="_blank"><span class="icon-linkedin"></span></a></li>
               </ul>
             </div>
 
@@ -251,9 +250,13 @@ s0.parentNode.insertBefore(s1,s0);
 
   var AUTOHIDE = Boolean(1);
 </script>
+  
+  <script src="js/jquery-1.12.1.min.js"></script>
+  <script src="js/jquery.magnific-popup.js"></script>
+  <script src="js/gijgo.min.js"></script>
+  <script src="js/custom.js"></script>
 
   <script src="js/jquery.min.js"></script>
-  <script src="js/livesearch.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/popper.min.js"></script>

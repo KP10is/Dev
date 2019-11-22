@@ -81,40 +81,40 @@
           	<h2 class="mb-4">Nos Domaines</h2>
 						<p><span class="kp10is_1">Capitaine de l'Informatique et des Statistiques</span> offre plusieurs services dans le domaine de l'Infographie, des Statistiques, du Développement Informatique et de la Maintenance des Systèmes et Réseaux.</p>
 						<div class="row mt-5">
-							<div class="col-lg-6 col-md-6">
+							<a href="services.php#infographie" target="_blank"><div class="col-lg-6 col-md-6">
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-collaboration"></span></div>
 									<div class="text media-body">
-										<a href="services.php"><h3>Infographie</h3></a>
-										<p>Confiez-nous la conception de vos affiches publicitaires, flyers, bâches, carte de voeux...</p>
+										<h3>Infographie</h3>
+										<p style="color: #003366; ">Confiez-nous la conception de vos affiches publicitaires, flyers, bâches, carte de voeux...</p></a>
 									</div>
 								</div>
                 </div>
-              <div class="col-lg-6 col-md-6">
+              <a href="services.php#maintenance" target="_blank"><div class="col-lg-6 col-md-6">
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-windows"></span></div>
 									<div class="text media-body">
-										<a href="services.php"><h3>Maintenance et Réseaux Informatiques</h3></a>
-										<p>Nous déployons des réseaux informatiques, assurons la migration de vos postes...</p>
+										<h3>Maintenance et Réseaux Informatiques</h3>
+										<p style="color: #003366; ">Nous déployons des réseaux informatiques, assurons la migration de vos postes...</p></a>
 									</div>
 								</div>
 							</div>
 
-							<div class="col-lg-6">
+							<a href="services.php#statistique" target="_blank"><div class="col-lg-6">
 								<div class="services text-center">
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="flaticon-search-engine"></span></div>
 									<div class="text media-body">
-										<a href="services.php"><h3>Statistiques et Prévisions</h3></a>
-										<p>Concerne tout ce qui est du traitement et analyse des données ainsi que des prévisions.</p>
+										<h3>Statistiques et Prévisions</h3>
+										<p style="color: #003366; ">Concerne tout ce qui est du traitement et analyse des données ainsi que des prévisions.</p></a>
 									</div>
 								</div>
                 </div>
-                <div class="col-lg-6">
+                <a href="services.php#programmation" target="_blank"><div class="col-lg-6">
 								<div class="services text-center" >
 									<div class="icon mt-2 d-flex justify-content-center align-items-center"><span class="icon-code"></span></div>
 									<div class="text media-body">
-										<a href="services.php"><h3 >Développement Informatique</h3></a>
-										<p>Nous développons tout type de sites web et applications mobiles/web/desktop.</p>
+										<h3 >Développement Informatique</h3>
+										<p style="color: #003366; ">Nous développons tout type de sites web et applications mobiles/web/desktop.</p></a>
 									</div>
 								</div>
                 </div>
@@ -194,9 +194,9 @@
     <section class="ftco-section">
 			<div class="container">
 				<div class="row justify-content-center mb-5 pb-2">
-          <div class="col-md-8 text-center heading-section ftco-animate">
+          <div class="col-md-9 text-center heading-section ftco-animate">
             <h2 class="mb-4">Notre Vision</h2>
-            <p>“Ensemble semons, ensemble moissonnons ; notre bonheur dépend du bonheur de nos clients. ’’</p><br>
+            <p>“Ensemble semons, ensemble moissonnons ; notre bonheur dépend du bonheur de nos clients.’’</p><br>
           </div>
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="mb-4">Mission Principale</h2>
@@ -207,7 +207,7 @@
 		</section>
 		
 
-		<section class="ftco-section testimony-section">
+		<section class="ftco-section testimony-section" style="margin-top: -15em;">
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-8 text-center heading-section ftco-animate">
@@ -247,7 +247,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_6.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -303,7 +303,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/p_7.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -317,7 +317,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(images/hom.jpg)">
+                  <div class="user-img" style="background-image: url(images/avatar_wag.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">

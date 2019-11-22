@@ -24,7 +24,7 @@
 
 
 <div class="" style="height: 100%; height: 100%; background-color: #003366; font-size: 2em; color: white;">
-	<span style="">Statistiques et Prévisions</span>
+	<span id="statistique">Statistiques et Prévisions</span>
 </div><br>
 
 
@@ -97,7 +97,7 @@
 			</div>
 
 <div class="" style="height: 100%; height: 100%; background-color: #003366; font-size: 2em; color: white;">
-	<span style="">Développement Informatique</span>
+	<span id="programmation">Développement Informatique</span>
       </div><br>
 
 <div class="feature-grids row" style="font-size: 1em;">
@@ -162,8 +162,8 @@
 			</div>
 			</div>
 
-<div class="" style="height: 100%; height: 100%; background-color: #003366; font-size: 2em; color: white;">
-	<span style="">Infographie & Design</span>
+<div style="height: 100%; height: 100%; background-color: #003366; font-size: 2em; color: white;">
+	<span id="infographie">Infographie & Design</span>
       </div><br>
 
 <div class="feature-grids row" style="font-size: 1em;">
@@ -235,8 +235,8 @@
 			</div>
 
 
-<div class="" style="hheight: 100%; height: 100%; background-color: #003366; font-size: 2em; color: white; padding-bottom: 10px;">
-	<span style="">Maintenance Informatique</span>
+<div class="" style="height: 100%; height: 100%; background-color: #003366; font-size: 2em; color: white; padding-bottom: 10px;">
+	<span id="maintenance">Maintenance Informatique</span>
       </div><br>
 
 <div class="feature-grids row" style="font-size: 1em;">

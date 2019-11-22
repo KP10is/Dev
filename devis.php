@@ -47,7 +47,7 @@
         data-type="subscription">
         <div style="padding: 16px 0;">
           <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent; border-width:px;">
-            <p>Demander un devis</p>
+            <p style="font-size:32px; color: #003366;">Demander un devis</p>
           </div>
         </div>
         <div style="padding: 16px 0;">

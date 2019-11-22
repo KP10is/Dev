@@ -52,8 +52,8 @@
       <form id="sib-form" method="POST" action="https://13011f67.sibforms.com/serve/MUIEAGmiyKAEqmuRzGFNBBfRtS8mXfXKocErr33b-zsIr00oUgvWer1A4h0b9xpwQOUBllwV7abcEHw__aAar-BWR1Bti2yvT6REoSQv2rH14BCpZJEYp8LHNlTh5wX629z4QiIhPuCDuN9EisdGU9TcsErtiZxCa8DpDC8s70ZCBWXaVbHGmv-rECU2RVnVTesRU41elA-R4igd"
         data-type="subscription">
         <div style="padding: 16px 0;">
-          <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent; border-width:px;">
-            <p>Commander un service</p>
+          <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <p style="font-size:32px; color: #003366;">Commander un service</p>
           </div>
         </div>
         <div style="padding: 16px 0;">
