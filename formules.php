@@ -100,6 +100,11 @@
 					</div>
 			</div>
 			</div>
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+					<p><a href="packages.php" class="btn btn-primary py-3 px-4" style=" text-transform: uppercase; background-color: #003366;">Consulter nos packages</a></p>
+				</div>
+			</div>
 		</section>
   </body>
   <?php include('include/footer.php'); ?>

@@ -13,8 +13,24 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-d1813124-9af4-4ba5-935b-3543d9c5645d"></div>
+<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+33 7 53 66 11 08", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->
+
+<style></style>
+
 
 
 <footer class="ftco-footer ftco-bg-dark ftco-section">

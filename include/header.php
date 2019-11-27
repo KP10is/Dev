@@ -34,14 +34,14 @@
    <header class="main_menu">
         <div class="sub_menu d-none d-sm-block">
             <div class="container">
-                <div class="row" style="margin-bottom: -50px">
+                <div class="row" style="margin-bottom: -60px">
                     <div class="col-lg-4 col-sm-12 col-md-4">
-                        <div class="sub_menu_right_content">
+                        <div class="sub_menu_right_content" style="margin-top: -10px;">
                           <span style="text-transform: uppercase; font-size: 0.7em;">" KP10 IS, Toujours innover pour vous satisfaire"</span>
                         </div>
                     </div>
 
-                    <div class="col-lg-8 col-sm-12 col-md-8 d-none d-sm-block" id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="804000" style="margin-top: -22px;">
+                    <div class="col-lg-8 col-sm-12 col-md-8 d-none d-sm-block" id="carouselContent" class="carousel slide" data-ride="carousel" data-interval="804000" style="margin-top: -35px;">
                         <div class="sub_menu_social_icon">
 
         <div class="carousel-inner" role="listbox">
